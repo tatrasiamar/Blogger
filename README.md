@@ -2,7 +2,6 @@
 
 A full-stack blogging platform built with React frontend and Node.js/Express backend, featuring local storage for data persistence.
 
-## 🛠️ Tech Stack
 
 ### Frontend
 - **React** - User interface library
@@ -30,11 +29,6 @@ A full-stack blogging platform built with React frontend and Node.js/Express bac
 
 Amar Tatrasi
 
-## 🙏 Acknowledgments
-
-- React community for excellent documentation
-- Express.js team for the robust framework
-- All contributors who helped improve this project
 
 ## 📞 Support
 
